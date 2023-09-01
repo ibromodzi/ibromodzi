@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dhikrullah, aka Ibromodzi
+### Hi there 👋 I'm Dhikrullah, aka Ibromodzi
 
 Welcome to my GitHub profile! I'm passionate about AI and Machine Learning, and I'm always exploring new horizons. Here's a bit about what I'm up to:
 
