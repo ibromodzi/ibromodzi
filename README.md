@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm passionate about AI and Machine Learning, with a strong focus on healthcare innovation. Here's a bit about what I'm up to:
 
-🔭 I'm currently working on multiple groundbreaking projects:
+🔭 I'm currently working on multiple fun projects:
 
 - Developing a CVF/OCT analyzer by leveraging generative AI.
 - Writing theoretical papers such as quantization for effective cybersecurity analysis.
