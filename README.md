@@ -5,11 +5,13 @@ Welcome to my GitHub profile! I'm passionate about AI and Machine Learning, with
 
 🔭 I'm currently working on multiple groundbreaking projects:
 
-- Developing a CVF/OCT analyser by leveraging generative AI.
+- Developing a CVF/OCT analyzer by leveraging generative AI.
 - Writing theoretical papers such as quantization for effective cybersecurity analysis.
 - Working on a paper that leverages large language models (LLM) for OCT image classification.
 - Fine-tuning Florence-2 for medical image visual question answering.
-🌱 I'm dedicated to honing my skills in NLP and continually exploring new horizons in AI and ML.
+- Collaborating with like-minded individuals to tackle malnutrition challenges in Africa using AI.
+
+
 
 👯 I'm eager to collaborate on open-source projects that can drive innovation and make a positive impact. If you have ideas or projects in mind, let's join forces and create something amazing together!
 
