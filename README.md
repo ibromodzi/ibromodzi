@@ -1,26 +1,33 @@
-### Hi there 👋 I'm Dhikrullah, aka Ibromodzi
+### Hi there 👋 I'm Dhikrullah (aka Ibromodzi)
 
+Welcome to my GitHub profile! I'm an optometrist, AI researcher, and healthcare innovator passionate about leveraging machine learning and deep learning to tackle real-world problems — especially in healthcare.
 
-Welcome to my GitHub profile! I'm passionate about AI and Machine Learning, with a strong focus on healthcare innovation. Here's a bit about what I'm up to:
+#### 👨‍🔬 What I'm Working On
+- 🧠 Building AI tools for **OCT/CVF analysis** using generative models.
+- 🤖 Developing **Salora**, a smart healthcare assistant powered by AI.
+- 📖 Researching **quantization techniques** for lightweight and explainable cybersecurity models.
+- 🏥 Applying **LLMs** to **medical image classification**, especially retinal imaging.
+- 🌍 Using **AI for social good** — working with researchers to combat **malnutrition in Africa**.
+- ✨ Exploring **LLM-driven behavioral analysis** for phishing, spam, and botnet detection.
 
-🔭 I'm currently working on multiple fun projects:
+#### 🤝 Let’s Collaborate
+I'm always open to:
+- Open-source contributions
+- Research collaborations
+- AI in healthcare projects
+- Mentorship and knowledge exchange
 
-- Developing a CVF/OCT analyzer by leveraging generative AI.
-- Writing theoretical papers such as quantization for effective cybersecurity analysis.
-- Working on a paper that leverages large language models (LLM) for OCT image classification.
-- Fine-tuning Florence-2 for medical image visual question answering.
-- Collaborating with like-minded individuals to tackle malnutrition challenges in Africa using AI.
+If you're building something meaningful — let's connect!
 
+#### 📚 Explore My Work
+Browse through my repositories for:
+- Practical machine learning notebooks
+- Deep learning experiments
+- NLP and CV projects
+- Data pipelines and healthcare analytics tools
 
+#### 📬 Get in Touch
+- 📧 Email: [ibromodzi@gmail.com](mailto:ibromodzi@gmail.com)
+- 🌐 LinkedIn: [Connect here](https://www.linkedin.com/in/dhikrullah)
 
-👯 I'm eager to collaborate on open-source projects that can drive innovation and make a positive impact. If you have ideas or projects in mind, let's join forces and create something amazing together!
-
-📚 Check out my repositories for a collection of resources on Python, Data Science, Machine Learning, and more. Feel free to explore, learn, and contribute.
-
-🌐 Connect with me on LinkedIn, and let's expand our network and knowledge together.
-
-📫 Interested in reaching out? Feel free to send me a message or connect via email: ibromodzi@gmail.com
-
-Thanks for stopping by! Let's learn, build, and innovate together. 🚀
-
-
+Thanks for visiting — let’s **learn**, **build**, and **innovate** together! 🚀
