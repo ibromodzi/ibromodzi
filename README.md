@@ -1,33 +1,26 @@
-### Hi there 👋 I'm Dhikrullah (aka Ibromodzi)
+### Hi there 👋 I'm Dhikrullah
 
-Welcome to my GitHub profile! I'm an optometrist, AI researcher, and healthcare innovator passionate about leveraging machine learning and deep learning to tackle real-world problems — especially in healthcare.
+Welcome to my GitHub! I’m an optometrist and AI developer who enjoys building simple, practical tools that solve real problems — especially in healthcare and everyday workflows.
 
-#### 👨‍🔬 What I'm Working On
-- 🧠 Building AI tools for **OCT/CVF analysis** using generative models.
-- 🤖 Developing **Salora**, a smart healthcare assistant powered by AI.
-- 📖 Researching **quantization techniques** for lightweight and explainable cybersecurity models.
-- 🏥 Applying **LLMs** to **medical image classification**, especially retinal imaging.
-- 🌍 Using **AI for social good** — working with researchers to combat **malnutrition in Africa**.
-- ✨ Exploring **LLM-driven behavioral analysis** for phishing, spam, and botnet detection.
+### 🔧 What I’m Currently Working On
+- 🤖 **Crucible** — a tool that uses AI agents to test and validate business ideas quickly.  
+- 💊 **DawaClear** — turns handwritten prescriptions into safe, clear instructions for patients.  
+- 🧰 Small AI tools that automate research, text processing, and daily tasks.  
 
-#### 🤝 Let’s Collaborate
-I'm always open to:
-- Open-source contributions
-- Research collaborations
-- AI in healthcare projects
-- Mentorship and knowledge exchange
+### 💡 What You’ll Find Here
+- Easy-to-understand machine learning projects  
+- AI experiments and prototypes  
+- Healthcare-focused tools  
+- Notebooks, scripts, and small utilities  
 
-If you're building something meaningful — let's connect!
+### 🤝 Open to Collaborations
+I’m happy to connect on projects involving:
+- AI for healthcare  
+- Simple automation tools  
+- Community learning and open-source ideas  
 
-#### 📚 Explore My Work
-Browse through my repositories for:
-- Practical machine learning notebooks
-- Deep learning experiments
-- NLP and CV projects
-- Data pipelines and healthcare analytics tools
+### 📬 Get in Touch
+- Email: **ibromodzi@gmail.com**  
+- LinkedIn: [linkedin.com/in/dhikrullah](https://www.linkedin.com/in/dhikrullah)
 
-#### 📬 Get in Touch
-- 📧 Email: [ibromodzi@gmail.com](mailto:ibromodzi@gmail.com)
-- 🌐 LinkedIn: [Connect here](https://www.linkedin.com/in/dhikrullah)
-
-Thanks for visiting — let’s **learn**, **build**, and **innovate** together! 🚀
+Thanks for stopping by — feel free to explore! 🚀
